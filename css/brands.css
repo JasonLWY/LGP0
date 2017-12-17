@@ -24,11 +24,11 @@
 }
 .brands_container .mian .recommend_content .brands_list ul {
   width: 100%;
-  margin-left: 1.024rem;
+  padding-left: 1.664rem;
   margin-top: 0.64rem;
 }
 .brands_container .mian .recommend_content .brands_list ul li {
-  width: 5.12rem;
+  width: 4.48rem;
   height: 4.8rem;
   float: left;
   line-height: 0.85333333rem;

@@ -96,6 +96,9 @@
   width: 3.456rem;
   height: auto;
 }
+.category_container .while {
+  height: 2.02666667rem;
+}
 .category_container .footer_wrap {
   width: 100%;
   background: #FFFFFF;
@@ -129,7 +132,4 @@
 }
 .category_container .footer_wrap .footer div .current {
   color: #FCB0BA;
-}
-.category_container .while {
-  height: 2.02666667rem;
 }
