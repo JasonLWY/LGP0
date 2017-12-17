@@ -185,6 +185,9 @@
 .shop_container .shop_list .list .shop_right .title {
   line-height: 0.85333333rem;
 }
+.shop_container .shop_list .list .shop_right .title a {
+  color: black;
+}
 .shop_container .shop_list .list .shop_right .last i {
   font-style: normal;
   font-size: 0.512rem;
